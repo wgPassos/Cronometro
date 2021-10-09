@@ -4,10 +4,10 @@
 🔎 :hourglass:
   Exemplo de um cronômetro utilizando JavaScript
 
-👉 [Acesse a página clicando aqui](/cronmetro.gif) 👈
+👉 [Acesse a página clicando aqui](https://cronometrowgpassos.netlify.app/) 👈
 
  <div align="center" >
-  <img src="/assets/Readme-calculator.gif" alt="demo" height="425">
+  <img src="/cronmetro.gif" alt="demo" height="425">
 </div>
 
 ## 🚀 Tecnologias
