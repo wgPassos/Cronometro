@@ -4,7 +4,7 @@
 🔎 :hourglass:
   Exemplo de um cronômetro utilizando JavaScript
 
-👉 [Acesse a página clicando aqui]() 👈
+👉 [Acesse a página clicando aqui](/cronmetro.gifcronmetro.gif) 👈
 
  <div align="center" >
   <img src="/assets/Readme-calculator.gif" alt="demo" height="425">
