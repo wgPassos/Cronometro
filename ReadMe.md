@@ -1,5 +1,4 @@
 # Cronômetro
-#### Obs.: Emconstrução :construction:
 
 🔎 :hourglass:
   Exemplo de um cronômetro utilizando JavaScript
